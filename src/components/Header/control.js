@@ -1,11 +1,11 @@
 import React from 'react';
 import {cx, css} from '@emotion/css';
+import { flexCenter, listReset } from '../../varsCss';
 const headerButton = css`width: 19px;height: 19px;background-position: center center;background-repeat: no-repeat;`;
 const buttonReset = css`padding: 0;
 border: none;
 background-color: transparent;
 cursor: pointer;`
-import { flexCenter, listReset } from '../../varsCss';
 
 
 const Control = () => {
