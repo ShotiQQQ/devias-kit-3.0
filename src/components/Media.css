@@ -1,0 +1,16 @@
+@media (max-width: 1045px) {
+    #root .aside__is-active {
+        display: flex ;
+        position: absolute ;
+    }
+
+
+    .content__tabs-burger--active {
+        display: block;
+    }
+
+    .burger__close--active {
+        display: block;
+    }
+
+}
